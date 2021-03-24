@@ -1,8 +1,8 @@
 # v12-giveaway
 
-_Lydia Çekiliş Sistemi_
+_ Çekiliş Sistemi_
 
-# Lydia Çekiliş Sistemidir
+#  Çekiliş Sistemidir
 
 # Tamamı Sorunsuz Şekilde Çalışıyordur!
 
