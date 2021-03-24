@@ -1,0 +1,11 @@
+{
+    "bot": {
+        "token": "",
+        "prefix": "!"
+    },
+    "status": {
+        "name": "Elminstr",
+        "type": "WATCHING",
+        "status": "online"
+    }
+}
